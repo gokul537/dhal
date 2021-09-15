@@ -1,0 +1,70 @@
+.module-inner-div-manage {
+  margin-top: 40px;
+}
+#manage-table {
+  height: 65vh;
+  width: "100%";
+  border: 1.5px solid #8898aa;
+  border-radius: 10px;
+  overflow: scroll;
+}
+#manage-table-header {
+  height: 60px;
+  /* width: 100%; */
+  background-color: #f6f9fc;
+  color: #8898aa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header-inner-div-header {
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+.manage-table-body {
+  min-height: 200px;
+}
+.manage-table-body-particular {
+  height: 60px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+.body-inner-div-body {
+  height: 60px;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+}
+#manage-img {
+  height: 40px;
+  width: 40px;
+  border-radius: 100%;
+}
+#edit-btn {
+  color: #fff;
+  border-color: #2dce89;
+  background-color: #2dce89;
+  box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+  padding: 10px 15px;
+  border: 0px;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+}
+
+#delete-btn {
+  color: #fff;
+  border-color: #f5365c;
+  background-color: #f5365c;
+  box-shadow: 0 4px 6px rgb(50 50 93 / 11%), 0 1px 3px rgb(0 0 0 / 8%);
+  padding: 10px 15px;
+  border: 0px;
+  border-radius: 6px;
+  cursor: pointer;
+  outline: none;
+}

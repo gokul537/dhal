@@ -1,0 +1,10 @@
+.addProductForm {
+  width: 90%;
+}
+.module-inner-div {
+  min-height: 70vh;
+  overflow: auto;
+}
+.input {
+  min-width: 100%;
+}

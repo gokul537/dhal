@@ -1,0 +1,26 @@
+.module-main-div {
+  padding: 20px;
+}
+.module-title {
+  font-size: 1.5rem;
+}
+.module-inner-div {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#addCategory-form {
+  width: 60%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.ant-input {
+  height: 45px;
+}
+#addCategory-save-btn {
+  height: 45px;
+  width: 100px;
+}

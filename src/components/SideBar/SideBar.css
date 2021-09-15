@@ -1,0 +1,33 @@
+#header {
+  background-color: #53b175;
+  color: white;
+  font-size: 1.45rem;
+  height:auto
+}
+.ant-layout-header {
+  color: white;
+  font-size: 1.3rem;
+}
+#side-bar-content {
+  margin: 20px;
+  /* background-color: #ececec; */
+  background-color: #fff;
+  border-radius: 4px;
+  min-height: 95%;
+}
+#slider {
+  background-color: #fff;
+}
+#ant-menu-submenu-title {
+  color: black;
+}
+
+#row {
+  display: flex;
+  justify-content: space-between;
+}
+
+#row p {
+  font-size: 1.1rem;
+  color: #fff;
+}
